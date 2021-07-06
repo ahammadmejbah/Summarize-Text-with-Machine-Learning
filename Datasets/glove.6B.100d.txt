@@ -1,1 +1,0 @@
-Glove 6B 100d Datasets Link : https://www.kaggle.com/danielwillgeorge/glove6b100dtxt
